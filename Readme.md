@@ -10,7 +10,7 @@ This repository contains a collection of C programming assignments completed as 
 ## Assignments
 
 <ol>
-    <li><a href="./sim.c">Assignment 1:  PROGRAM TO CALCULATE SIMPLE INTEREST.</a></li>
+    <li><a href="./sim.c">PROGRAM TO CALCULATE SIMPLE INTEREST.</a></li>
     <li><a href="[Link to Assignment 2]">PROGRAM TO READ MARKS OF FIVE SUBJECT OF A STUDENT AND CALCULATE TOTAL AND 
 PERCENTAGE.</a></li>
     <li><a href="[Link to Assignment 3]">PROGRAM TO CALCULATE GROSS SALARY</a></li>
