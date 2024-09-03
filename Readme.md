@@ -10,7 +10,6 @@ This repository contains a collection of C programming assignments completed as 
 ## Assignments
 
 <ol>
-<style>li a{color:green;}</style>
     <li><a href="./sim.c">PROGRAM TO CALCULATE SIMPLE INTEREST.</a></li>
     <li><a href="./commingup.md">PROGRAM TO READ MARKS OF FIVE SUBJECT OF A STUDENT AND CALCULATE TOTAL AND 
 PERCENTAGE.</a></li>
