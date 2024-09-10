@@ -1,5 +1,5 @@
- // date Sun, Sep  8, 2024  9:05:09 AM 
- // created by bhaskar 
+ // date Sun, Sep  9, 2024  9:05:09 AM 
+ // created by bhaskar
 #include<stdio.h>
 int main(){
     int num,sum=0,a;
@@ -8,7 +8,7 @@ int main(){
     int check=num; 
     while(num!=0){
         a=num%10;
-        sum+=(a*a*a);
+        sum+=(a*a);
         num/=10;
     };
     if(check==sum){
